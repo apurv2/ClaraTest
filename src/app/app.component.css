@@ -1,0 +1,10 @@
+.container{
+    width :20%;
+    margin: 0px auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.mat-form-field{
+    width: 100%;
+}
